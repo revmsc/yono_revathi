@@ -1,4 +1,4 @@
-name = "Revathi \t Renuka \t Karthi"
-for i in range (1, 6)
+name = "Revathi \t Renuka \t Karthii"
+for i in range (6)
 print(name*1)
 
