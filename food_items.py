@@ -1,5 +1,6 @@
 food1=idly
 food2=dosa
 food3=pongal
-print(idly,dosa,pongal)
+print(food1,food2,food3)
+
 
